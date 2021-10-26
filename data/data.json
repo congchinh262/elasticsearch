@@ -1,0 +1,232 @@
+﻿{
+    "Sheet2": [
+        {
+            "ID": "1",
+            "Hành động": "­       Đăng ký tài khoản dịch vụ ViettelPay",
+            "Phân loại": "1.    Đăng ký và kích hoạt tài khoản",
+            "UserId": "6865569"
+        },
+        {
+            "ID": "2",
+            "Hành động": "­       Kích hoạt nguồn tiền Ngân hàng số",
+            "Phân loại": "1.    Đăng ký và kích hoạt tài khoản",
+            "UserId": "2137348"
+        },
+        {
+            "ID": "3",
+            "Hành động": "­       Kích hoạt nguồn Tiền di động",
+            "Phân loại": "1.    Đăng ký và kích hoạt tài khoản",
+            "UserId": "8874363"
+        },
+        {
+            "ID": "4",
+            "Hành động": "­       Thực hiện nâng cấp gói tài khoản",
+            "Phân loại": "1.    Đăng ký và kích hoạt tài khoản",
+            "UserId": "1729238"
+        },
+        {
+            "ID": "5",
+            "Hành động": "­       Đăng nhập n ngày liên tiếp",
+            "Phân loại": "2.    Đăng nhập",
+            "UserId": "3284767"
+        },
+        {
+            "ID": "6",
+            "Hành động": "­       Đăng nhập lại sau n ngày",
+            "Phân loại": "2.    Đăng nhập",
+            "UserId": "7202150"
+        },
+        {
+            "ID": "7",
+            "Hành động": "­       Cứ mỗi lần đăng nhập đầu tiên trong ngày",
+            "Phân loại": "2.    Đăng nhập",
+            "UserId": "8368803"
+        },
+        {
+            "ID": "8",
+            "Hành động": "­       Lì xì",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "375938"
+        },
+        {
+            "ID": "9",
+            "Hành động": "­       Nạp điện thoại",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "6856002"
+        },
+        {
+            "ID": "10",
+            "Hành động": "­       Chuyển tiền đến số điện thoại",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "2197417"
+        },
+        {
+            "ID": "11",
+            "Hành động": "­       Chuyển tiền đến số thẻ, số tài khoản",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "5042902"
+        },
+        {
+            "ID": "12",
+            "Hành động": "­       Nạp tiền vào ViettelPay",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "3339503"
+        },
+        {
+            "ID": "13",
+            "Hành động": "­       Thanh toán điện",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "8646187"
+        },
+        {
+            "ID": "14",
+            "Hành động": "­       Thanh toán nước",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "1620395"
+        },
+        {
+            "ID": "15",
+            "Hành động": "­       Thanh toán internet truyền hình Viettel + đối tác",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "8299856"
+        },
+        {
+            "ID": "16",
+            "Hành động": "­       Mua vé số",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "1554112"
+        },
+        {
+            "ID": "17",
+            "Hành động": "­       Đầu tư số Savenow",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "533783"
+        },
+        {
+            "ID": "18",
+            "Hành động": "­       Mua vé xem phim",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "5091192"
+        },
+        {
+            "ID": "19",
+            "Hành động": "­       Đăng ký ví trả sau Paynow",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "4231096"
+        },
+        {
+            "ID": "20",
+            "Hành động": "­       Thanh toán khoản vay",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "644218"
+        },
+        {
+            "ID": "21",
+            "Hành động": "­       Sử dụng tính năng chia hoá đơn",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "7515260"
+        },
+        {
+            "ID": "22",
+            "Hành động": "­       Quét QR code thanh toán tại quầy",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "9208113"
+        },
+        {
+            "ID": "23",
+            "Hành động": "­       Phát hành thẻ vật lý",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "4087101"
+        },
+        {
+            "ID": "24",
+            "Hành động": "­       Phát hành thẻ mastercard",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "7412623"
+        },
+        {
+            "ID": "25",
+            "Hành động": "­       Mua voucher thành công",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "1490221"
+        },
+        {
+            "ID": "26",
+            "Hành động": "­       Sử dụng vouher thành công",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "7469255"
+        },
+        {
+            "ID": "27",
+            "Hành động": "­       Tặng voucher thành công",
+            "Phân loại": "3.    Phát sinh giao dịch tài chính",
+            "UserId": "3222044"
+        },
+        {
+            "ID": "28",
+            "Hành động": "­       Tham quan các tính năng: vào đến màn hình cụ thể nào đó của tính năng mong muốn",
+            "Phân loại": "4.    Hành động tương tác app",
+            "UserId": "3821113"
+        },
+        {
+            "ID": "29",
+            "Hành động": "­       Thiết lập login face id/ vân tay",
+            "Phân loại": "4.    Hành động tương tác app",
+            "UserId": "5835969"
+        },
+        {
+            "ID": "30",
+            "Hành động": "­       Đăng ký thanh toán tự động",
+            "Phân loại": "4.    Hành động tương tác app",
+            "UserId": "4412344"
+        },
+        {
+            "ID": "31",
+            "Hành động": "­       Lưu phiên đăng nhập",
+            "Phân loại": "4.    Hành động tương tác app",
+            "UserId": "1194537"
+        },
+        {
+            "ID": "32",
+            "Hành động": "­       Đổi ảnh đại diện",
+            "Phân loại": "4.    Hành động tương tác app",
+            "UserId": "5385194"
+        },
+        {
+            "ID": "33",
+            "Hành động": "­       Chụp ảnh màn hình chia sẻ ViettelPay",
+            "Phân loại": "4.    Hành động tương tác app",
+            "UserId": "8194306"
+        },
+        {
+            "ID": "34",
+            "Hành động": "­       Truy vấn số dư tại màn home thành công",
+            "Phân loại": "4.    Hành động tương tác app",
+            "UserId": "2825655"
+        },
+        {
+            "ID": "35",
+            "Hành động": "­       Liên kết nguồn tiền mới thành công",
+            "Phân loại": "4.    Hành động tương tác app",
+            "UserId": "9233812"
+        },
+        {
+            "ID": "36",
+            "Hành động": "­       Liên kết tài khoản ngân hàng thành công",
+            "Phân loại": "4.    Hành động tương tác app",
+            "UserId": "2480980"
+        },
+        {
+            "ID": "37",
+            "Hành động": "­       Thanh toán bằng nguồn tiền khác ViettelPay thành công",
+            "Phân loại": "4.    Hành động tương tác app",
+            "UserId": "9214519"
+        },
+        {
+            "ID": "38",
+            "Hành động": "­       Mời bạn bè tham gia",
+            "Phân loại": "4.    Hành động tương tác app",
+            "UserId": "3201770"
+        }
+    ]
+}
